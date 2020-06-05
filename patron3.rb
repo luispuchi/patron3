@@ -5,3 +5,6 @@ n.times do |i|
   print '..**||'
 
 end
+puts
+
+
